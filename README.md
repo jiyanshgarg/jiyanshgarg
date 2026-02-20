@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Jiyansh Garg
-Motivated Business Analyst / Data Analyst transitioning from a strong commerce background, with hands-on experience in SQL, Python, Excel, Tableau, and statistical analysis. Proven ability to analyze large datasets, translate data into actionable business insights, and support data-driven decision-making across retail, e-commerce, and operations domains.
+I am an ambitious Data Analyst with a strong foundation in SQL, Python, Tableau, and Excel. With a focus on analytics and statistics, I have completed structured training through Scaler Academy, gaining hands-on experience in real-world business case projects. I am eager to secure entry-level opportunities as a Data Analyst or Business Analyst, where I can leverage my analytical and problem-solving skills to drive business insights.
 
-🔹 Interests: Data Analytics, Business Intelligence, Statistics  
+🔹 Interests: Data Analytics, Business Intelligence, Probability & Statistics  
 🔹 Skills: Python | SQL | Tableau | Excel | Probability & Stats
 
 📫 Email : jiyansh1823@gmail.com
