@@ -1,5 +1,5 @@
 ## **Jiyansh Garg**
-jiyansh1823@gmail.com &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn]([url](https://www.linkedin.com/in/jiyansh-garg/)) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[My Portfolio]](https://www.datascienceportfol.io/jiyanshgarg)
+jiyansh1823@gmail.com &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/jiyansh-garg/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[My Portfolio]](https://www.datascienceportfol.io/jiyanshgarg)
 
 ## **Summary**
 Data Analyst Trainee with hands-on experience in SQL, data analysis, Excel and Python. Skilled in query optimization, data transformation, and building reports to track KPIs, trends, and anomalies. Strong ability to deliver data-driven insights and support business decision-making.
